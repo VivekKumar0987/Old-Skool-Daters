@@ -1,21 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 305" width="1200" height="305" role="img" aria-label="Explore the world, discover someone, choose Talk to Me, and continue elsewhere. No swipes or payment gates.">
-<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fbfaff"/><stop offset="1" stop-color="#f1f7ff"/></linearGradient><filter id="sh" x="-20%" y="-30%" width="140%" height="160%"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#6d63a0" flood-opacity="0.08"/></filter></defs>
-<rect width="1200" height="305" rx="28" fill="url(#bg)"/>
-<text x="600" y="46" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#27214b">One simple path to a conversation</text>
-<path d="M205 158 C275 126 285 194 355 158 S475 126 545 158 S665 194 735 158 S855 126 925 158 S1040 196 1080 158" fill="none" stroke="#ed6f84" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 9"/>
-<g filter="url(#sh)">
-<rect x="42" y="96" width="244" height="140" rx="20" fill="white"/>
-<rect x="329" y="96" width="244" height="140" rx="20" fill="white"/>
-<rect x="616" y="96" width="244" height="140" rx="20" fill="white"/>
-<rect x="903" y="96" width="244" height="140" rx="20" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 338" role="img" aria-label="Four steps: Explore the world, Discover someone, Talk to Me, Follow the thread. No swipe queues, ranking algorithms, or paid messaging gates.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f5ff"/><stop offset="1" stop-color="#eaf7fc"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#605684" flood-opacity=".12"/></filter></defs>
+<rect x="0" y="0" width="1280" height="338" rx="24" fill="url(#bg)"/>
+<text x="640" y="51" text-anchor="middle" fill="#22203c" font-size="26" font-family="Arial,Helvetica,sans-serif" font-weight="700">One world. One simple way to connect.</text>
+<path d="M194,157 Q260,100 310,157 T540,157 T775,157 T1010,157 T1170,157" fill="none" stroke="#df5d76" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 8" />
+<g filter="url(#s)" fill="white"><rect x="28" y="89" width="279" height="168" rx="20"/><rect x="343" y="89" width="279" height="168" rx="20"/><rect x="658" y="89" width="279" height="168" rx="20"/><rect x="973" y="89" width="279" height="168" rx="20"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g fill="#7553b3"><circle cx="168" cy="125" r="24" fill="#f1ecff"/><text x="168" y="133" font-size="27">◎</text><circle cx="483" cy="125" r="24" fill="#f1ecff"/><text x="483" y="133" font-size="27">⌖</text><circle cx="798" cy="125" r="24" fill="#f1ecff"/><text x="798" y="133" font-size="28">♡</text><circle cx="1113" cy="125" r="24" fill="#f1ecff"/><text x="1113" y="133" font-size="26">↗</text></g>
+<g fill="#242039" font-size="22" font-weight="700"><text x="168" y="188">Explore</text><text x="483" y="188">Discover</text><text x="798" y="188">Talk to Me</text><text x="1113" y="188">Follow the thread</text></g>
+<g fill="#56566f" font-size="17"><text x="168" y="215">Anywhere in the world</text><text x="483" y="215">A short public profile</text><text x="798" y="215">Chosen contact options</text><text x="1113" y="215">Talk elsewhere</text></g>
 </g>
-<g font-family="Arial,sans-serif" text-anchor="middle">
-<circle cx="164" cy="128" r="24" fill="#f2ebff"/><text x="164" y="136" fill="#6f50b7" font-size="23">✧</text>
-<circle cx="451" cy="128" r="24" fill="#edf5ff"/><text x="451" y="135" fill="#4969b3" font-size="23">◉</text>
-<circle cx="738" cy="128" r="24" fill="#fff0f2"/><text x="738" y="134" fill="#d45c75" font-size="22">♡</text>
-<circle cx="1025" cy="128" r="24" fill="#f2ebff"/><text x="1025" y="135" fill="#6f50b7" font-size="22">↗</text>
-<g fill="#27214b" font-size="20" font-weight="700"><text x="164" y="181">Explore</text><text x="451" y="181">Discover</text><text x="738" y="181">Talk to Me</text><text x="1025" y="181">Follow the thread</text></g>
-<g fill="#696483" font-size="14"><text x="164" y="205">Across the world</text><text x="451" y="205">A simple profile</text><text x="738" y="205">Shared contact options</text><text x="1025" y="205">Conversation elsewhere</text></g>
-</g>
-<text x="600" y="278" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#8e6f95">No swipe queue  ·  No compatibility score  ·  No pay-to-talk gate</text>
+<text x="640" y="306" text-anchor="middle" fill="#655776" font-size="18" font-family="Arial,Helvetica,sans-serif">No swipes    •    No artificial matches    •    No pay-to-talk gates</text>
 </svg>

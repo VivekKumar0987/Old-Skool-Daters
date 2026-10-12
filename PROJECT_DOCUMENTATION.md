@@ -558,6 +558,7 @@ VITE_API_URL=https://api.yourdomain.com
 - `packages/backend/src/db/connection.ts`
 - `packages/backend/src/db/init.ts`
 - `packages/backend/src/db/seed.ts` (1000 users)
+- `packages/backend/src/db/add-gender.js` (gender migration)
 - `packages/backend/src/middleware/auth.ts`
 - `packages/backend/src/routes/auth.ts`
 - `packages/backend/src/routes/users.ts`

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 265" role="img" aria-label="Online: available and sharing location by choice. Offline: not currently available; any last area shown must be approximate and clearly marked as old.">
+<rect width="1150" height="265" fill="#f7f5fc" rx="26"/>
+<rect x="34" y="35" width="522" height="191" rx="22" fill="white" stroke="#ddd9e9"/>
+<rect x="593" y="35" width="522" height="191" rx="22" fill="white" stroke="#ddd9e9"/>
+<circle cx="112" cy="107" r="32" fill="#eaf9f1"/><circle cx="112" cy="107" r="13" fill="#23a56c"/>
+<circle cx="671" cy="107" r="32" fill="#f0f0f6"/><circle cx="671" cy="107" r="13" fill="#9393a7"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="167" y="96" fill="#252142" font-weight="700" font-size="24">Online</text><text x="167" y="125" fill="#5f6078" font-size="17">Available by choice</text><text x="167" y="162" fill="#5f6078" font-size="16">Not a precise location broadcast</text>
+<text x="726" y="96" fill="#252142" font-weight="700" font-size="24">Offline</text><text x="726" y="125" fill="#5f6078" font-size="17">Not currently available</text><text x="726" y="162" fill="#5f6078" font-size="16">Old location must be stale-labeled</text>
+<text x="575" y="251" font-size="14" fill="#7e7792" text-anchor="middle">Conceptual availability behavior, not a verified public-launch safety implementation</text></g></svg>
